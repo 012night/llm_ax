@@ -1,4 +1,0 @@
-echo "// test" >> test.js
-git add test.js
-git commit -m "CodeBuild 테스트용 커밋"
-git push origin main
